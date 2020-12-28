@@ -1,0 +1,13 @@
+body{
+    text-align: center
+    background-color:skyblue;
+}
+.img{
+    height:205px;
+    border:2px solid skyblue;
+}
+.img_sty{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: orange;
+}
